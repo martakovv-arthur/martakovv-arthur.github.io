@@ -664,7 +664,7 @@ footer {
 
 .variants {
   background-color: #1A1E1E;
-  padding: 20px 0 0px; }
+  padding: 40px 0 0px; }
   @media (max-width: 991px) {
     .variants {
       padding: 90px 0 30px; } }
