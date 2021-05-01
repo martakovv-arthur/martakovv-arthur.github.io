@@ -664,7 +664,7 @@ footer {
 
 .variants {
   background-color: #1A1E1E;
-  padding: 90px 0 75px; }
+  padding: 20px 0 0px; }
   @media (max-width: 991px) {
     .variants {
       padding: 90px 0 30px; } }
@@ -674,7 +674,7 @@ footer {
     font-size: 60px;
     line-height: 70px;
     text-align: center;
-    margin: 0 auto 50px;
+    margin: 0 auto 20px;
     position: relative;
     max-width: 700px; }
     @media (max-width: 576px) {
@@ -843,7 +843,7 @@ footer {
     max-width: 140px; }
 
 .variants-slider__controls {
-  margin: 50px auto 0; }
+  margin: 20px auto 0; }
 
 .variants-slider__arrows {
   display: flex;
